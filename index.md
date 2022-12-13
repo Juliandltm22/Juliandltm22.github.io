@@ -19,4 +19,3 @@ My GitHub page is http://github.com/Juliandltm22.
 * Lab 12
 
     Lab 12 consisted of two parts.  To start off, it was always a mystery to me on how big corporations use code to create animations for animated movies, or how they add special effects to a scene.  To add on, this lab specifically caught my eye because I take pictures as a hobby and something I use is color grading so through this lab, I connected the image we created to my hobby which I feel like it intrigued me more.  Through this lab I was exposed to using RGB which is something I was first exposed to in highschool but we never created anything with it.
-   
